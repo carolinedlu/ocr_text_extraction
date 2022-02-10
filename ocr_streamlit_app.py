@@ -1,3 +1,4 @@
+import setup_helper
 import pandas as pd
 import streamlit as st
 from ocr_info_extractor import ocr_model
