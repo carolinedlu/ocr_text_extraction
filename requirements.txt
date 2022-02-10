@@ -1,3 +1,11 @@
 pandas
 streamlit
 mmcv
+mmocr
+mmdet
+torch
+torchvision
+numpy
+mmcv-full
+openmim
+open-mmlab
