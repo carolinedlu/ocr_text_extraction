@@ -8,4 +8,3 @@ torchvision
 numpy
 mmcv-full
 openmim
-open-mmlab
